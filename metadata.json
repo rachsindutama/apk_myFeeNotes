@@ -1,0 +1,6 @@
+{
+  "name": "MyFeeNotes",
+  "description": "A robust financial management application to track cashflow, categories, and generate monthly reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
